@@ -6,7 +6,7 @@ from src import solvers
 
 
 def main():
-    solvers.s1c3()
+    print(solvers.s1c4())
 
 if __name__ == "__main__":
     main()

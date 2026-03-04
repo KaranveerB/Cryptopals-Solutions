@@ -1,3 +1,8 @@
+from pathlib import Path
+
+
+res_dir = Path(__file__).parent.parent / "res"
+
 english_freqs = {
     "a": 0.082,
     "b": 0.015,
